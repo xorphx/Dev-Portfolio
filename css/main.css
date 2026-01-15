@@ -3,7 +3,12 @@
   background-color: #0f172a; /* same dark tone feel */
   padding: 1.5rem 0;
   position: sticky;
+  margin-bottom: 80px;
 }
+
+.home-page .header {
+     margin-bottom: 0;
+   }
 
 .header__container {
   display: flex;
